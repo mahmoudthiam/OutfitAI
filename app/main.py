@@ -11,7 +11,7 @@ from color_utils import get_dominant_color, are_complementary
 
 # Configuration de la page
 st.set_page_config(page_title="OutfitAI", page_icon="👗")
-st.title("🎨 OutfitAI - Niveau 1")
+st.title("🎨 OutfitAI ")
 st.write("Upload tes vêtements pour obtenir un score de style !")
 
 # Sidebar pour les paramètres
