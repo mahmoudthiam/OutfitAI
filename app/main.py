@@ -3,7 +3,7 @@ from PIL import Image
 import os
 import sys
 
-# Ajoute le chemin du projet au PATH
+# Ajoute le chemin du projet au PATHs
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 from scoring import calculate_style_score
